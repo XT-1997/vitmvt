@@ -105,17 +105,17 @@ We give some visualizations of ViT-MVT-B for object detection and semantic segme
 - Object detection
 
 <div align="half">
-    <img src="docs/det_pred1.jpg" width="33%"/>
-    <img src="docs/det_pred2.jpg" width="33%"/>
-    <img src="docs/det_pred3.jpg" width="33%"/>
+    <img src="docs/det_pred1.jpg" width="32%"/>
+    <img src="docs/det_pred2.jpg" width="32%"/>
+    <img src="docs/det_pred3.jpg" width="32%"/>
 </div>
 
 - Semantic segmentation
 
 <div align="half">
-    <img src="docs/seg_pred1.jpg" width="33%"/>
-    <img src="docs/seg_pred2.jpg" width="33%"/>
-    <img src="docs/seg_pred3.jpg" width="33%"/>
+    <img src="docs/seg_pred1.jpg" width="32%"/>
+    <img src="docs/seg_pred2.jpg" width="32%"/>
+    <img src="docs/seg_pred3.jpg" width="32%"/>
 </div>
 
 ## Demo
