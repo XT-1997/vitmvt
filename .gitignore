@@ -1,0 +1,32 @@
+*.pyc
+__pycache__
+.coverage
+build
+dist
+.vscode
+test
+*.egg-info
+events*
+*.pyc
+.coverage
+*.pkl
+
+# demo
+demo/*/.ipynb_checkpoints/*
+
+# data
+demo/*/data/*
+demo/*/model/*
+data/*
+
+# work cache
+work_dirs
+*.log
+runs/*
+.search-run
+*.pth
+*.pt
+*.h5
+
+# contribution status cache
+*.csv

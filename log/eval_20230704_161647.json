@@ -1,0 +1,1 @@
+{"config": "/home/dk/vitmvt/configs/nas/vit_mvt_base/task_det.py", "metric": {"bbox_mAP": 0.494, "bbox_mAP_50": 0.706, "bbox_mAP_75": 0.54, "bbox_mAP_s": 0.329, "bbox_mAP_m": 0.537, "bbox_mAP_l": 0.643, "bbox_mAP_copypaste": "0.494 0.706 0.540 0.329 0.537 0.643"}}

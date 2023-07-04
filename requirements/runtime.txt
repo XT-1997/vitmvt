@@ -1,0 +1,9 @@
+astor
+easydict
+joblib
+onnx==1.10.0
+orderedset
+psutil
+schema
+schema
+scipy

@@ -1,0 +1,7 @@
+gym
+numpy==1.19.5
+pydacefit
+pySOT==0.2.3
+requests_toolbelt==0.9.1
+scikit-optimize
+timm
