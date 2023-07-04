@@ -68,7 +68,7 @@ Model download links:
 Model | Total Params. | Top-1 Acc. % | mAP % | mIoU % | Download link 
 --- |:---:|:---:|:---:|:---:|:---:
 ViT-MVT-T|86.3M|78.7|44.5|45.56|[Google Drive](https://drive.google.com/drive/folders/1hCzl83ACiQYpuAVsSwsQqN6TJJUNTVrN?usp=sharing)
-ViT-MVT-S|135.3M|82.4|47.3|49.42|[Google Drive]()
+ViT-MVT-S|135.3M|82.4|47.3|49.42|[Google Drive](https://drive.google.com/drive/folders/14NPl5d7bHkvyN6nIH_ajKMy5dFKZzpUl?usp=sharing)
 ViT-MVT-B|239.6M|83.2|49.4|50.46|[Google Drive](https://drive.google.com/drive/folders/1Gsm8-cB4rJMeBoX-42EJHujnUAyZ8u-a?usp=sharing)
 
 - Note: We do not integrate these models into a single one. You can manually integrate these models into a single one according to the learnable score of each layer so as to reduce storage cost.  
